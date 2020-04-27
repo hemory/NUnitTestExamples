@@ -1,0 +1,17 @@
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\nunit.engine.dll
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\nunit.engine.api.dll
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\CalculatorApp.UnitTests.dll
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\CalculatorApp.UnitTests.pdb
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\CalculatorApp.exe
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\CalculatorApp.pdb
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\CalculatorApp.exe.config
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\nunit.framework.pdb
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\obj\Debug\CalculatorApp.UnitTests.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\obj\Debug\CalculatorApp.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\obj\Debug\CalculatorApp.UnitTests.csproj.CopyComplete
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\obj\Debug\CalculatorApp.UnitTests.dll
+C:\Users\hphifer\source\repos\CalculatorApp\CalculatorApp.UnitTests\obj\Debug\CalculatorApp.UnitTests.pdb
